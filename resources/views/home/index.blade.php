@@ -25,13 +25,13 @@
                           </div>
                           <div class="col">
                             <input type="hidden" value="{{ rand(10,100)}}" class="form-control" name="distcd">
-                            <input type="text" class="form-control" name="change_key_1">
+                            <input type="password" class="form-control" name="change_key_1">
                           </div>
                           <div class="col">
-                              <input type="text" class="form-control" name="change_key_2">
+                              <input type="password" class="form-control" name="change_key_2">
                           </div>
                           <div class="col">
-                              <input type="text" class="form-control" name="change_key_3">
+                              <input type="password" class="form-control" name="change_key_3">
                           </div>
                         </div>
                         <div class="row mt-3">
@@ -39,13 +39,13 @@
                               <label>Confirm Key</label>
                           </div>
                           <div class="col">
-                            <input type="text" class="form-control" name="change_key_4">
+                            <input type="password" class="form-control" name="change_key_4">
                           </div>
                           <div class="col">
-                              <input type="text" class="form-control" name="change_key_5">
+                              <input type="password" class="form-control" name="change_key_5">
                           </div>
                           <div class="col">
-                              <input type="text" class="form-control" name="change_key_6">
+                              <input type="password" class="form-control" name="change_key_6">
                           </div>
                         </div>
                   </div>
@@ -55,13 +55,13 @@
                             <label>New Key</label>
                           </div>
                           <div class="col">
-                            <input type="text" class="form-control" name="change_key_7">
+                            <input type="password" class="form-control" name="change_key_7">
                           </div>
                           <div class="col">
-                              <input type="text" class="form-control" name="change_key_8">
+                              <input type="password" class="form-control" name="change_key_8">
                           </div>
                           <div class="col">
-                              <input type="text" class="form-control" name="change_key_9">
+                              <input type="password" class="form-control" name="change_key_9">
                           </div>
                         </div>
                         <div class="row mt-3">
@@ -69,13 +69,13 @@
                               <label>Confirm Key</label>
                           </div>
                           <div class="col">
-                            <input type="text" class="form-control"  name="change_key_10">
+                            <input type="password" class="form-control"  name="change_key_10">
                           </div>
                           <div class="col">
-                              <input type="text" class="form-control" name="change_key_11">
+                              <input type="password" class="form-control" name="change_key_11">
                           </div>
                           <div class="col">
-                              <input type="text" class="form-control" name="change_key_12">
+                              <input type="password" class="form-control" name="change_key_12">
                           </div>
                         </div>
                   </div>
@@ -85,13 +85,13 @@
                             <label>New Key</label>
                           </div>
                           <div class="col">
-                            <input type="text" class="form-control" name="change_key_13">
+                            <input type="password" class="form-control" name="change_key_13">
                           </div>
                           <div class="col">
-                              <input type="text" class="form-control" name="change_key_14">
+                              <input type="password" class="form-control" name="change_key_14">
                           </div>
                           <div class="col">
-                              <input type="text" class="form-control" name="change_key_15">
+                              <input type="password" class="form-control" name="change_key_15">
                           </div>
                         </div>
                         <div class="row mt-3">
@@ -99,13 +99,13 @@
                               <label>Confirm Key</label>
                           </div>
                           <div class="col">
-                            <input type="text" class="form-control" name="change_key_16">
+                            <input type="password" class="form-control" name="change_key_16">
                           </div>
                           <div class="col">
-                              <input type="text" class="form-control" name="change_key_17">
+                              <input type="password" class="form-control" name="change_key_17">
                           </div>
                           <div class="col">
-                              <input type="text" class="form-control" name="change_key_18">
+                              <input type="password" class="form-control" name="change_key_18">
                           </div>
                         </div>
                   </div>
